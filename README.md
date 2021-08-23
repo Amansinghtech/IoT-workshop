@@ -3,3 +3,7 @@ This repository Contains PPTs and Sample Codes for IoT workshop 21st  to 24th Au
 
 Fritzing Download Link:
 https://www.filehorse.com/download-fritzing-64/
+
+Day 1 Video link: https://drive.google.com/file/d/185ocj-wknMu_QVPQkzwGrwmMoe30hcKU/view?usp=drivesdk
+
+Day 2 Video Link: https://drive.google.com/file/d/1AFhXe95cNWX9KO2MepgKJvwALNg40eBA/view?usp=drivesdk
